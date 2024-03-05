@@ -17,4 +17,4 @@ streamlit run dashboard.py
 ```
 
 ## Link Deploy Stramlit
-[Link Dashboard] ()
+[Link Dashboard] (https://submissionn.streamlit.app/)
